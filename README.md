@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img align="center" src="https://oss-emcsprod-public.modb.pro/image/auto/modb_20221114_dd2a2230-63da-11ed-8291-fa163eb4f6be.png" >
+
+
 
 <!--
 **Shnvi-duxingzhe/Shnvi-duxingzhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
