@@ -23,21 +23,21 @@
 
 <img src="https://raw.githubusercontent.com/Shnvi-duxingzhe/Shnvi-duxingzhe/master/gifs/Hi.gif" width="35px">
 
-哈喽，我是独行者-神威；
+--哈喽，我是独行者-神威；
 
-来自于辽宁大连的一名学生；
+--来自于辽宁大连的一名学生；
 
-专科学习网站开发，本科学习网络工程；
+--专科学习网站开发，本科学习网络工程；
 
-在嵌入式开发领域参加过比赛；
+--在嵌入式开发领域参加过比赛；
 
 <a href="#">
   <img align="right" alt="Andtun02's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shnvi-duxingzhe&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="400"/>
 </a>
 
-我喜欢跑步，但是跑的不快；
+--我喜欢跑步，但是跑的不快；
 
-梦想是成为一名电气工程师；
+--梦想是成为一名电气工程师；
 
 <br>
 <br>
