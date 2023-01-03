@@ -13,7 +13,7 @@
 
 - - -
 
->云想衣裳花想容，春风拂槛露华浓
+>尊严只在剑锋之上，真理只在大炮射程范围之内！
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shnvi-duxingzhe&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true">
@@ -103,7 +103,7 @@ public class Shnvi-duxingzhe (){
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shnvi-duxingzhe)
 
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+> ***君子藏器于身，待时而动，以钝示人，以锋策己，藏锋慰忠骨，出鞘镇山河！😊***
 
 
 
