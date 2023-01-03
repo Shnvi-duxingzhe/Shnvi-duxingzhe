@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-### 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/Shnvi-duxingzhe/Shnvi-duxingzhe/main/assets/github-contribution-grid-snake.svg)
 
+<!-- 不用的
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=Shnvi-duxingzhe&show_icons=true&theme=dark&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shnvi-duxingzhe&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shnvi-duxingzhe&theme=dark&layout=compact) -->
