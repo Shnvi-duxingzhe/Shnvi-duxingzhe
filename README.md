@@ -50,7 +50,7 @@ I encourage myself by sharing my project code on GitHub.
 
 ![](https://raw.githubusercontent.com/Shnvi-duxingzhe/Shnvi-duxingzhe/main/assets/github-contribution-grid-snake.svg)
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> NicoNicoNi-Host  <img alt="GitHub followers" src="https://img.shields.io/github/followers/NicoNicoNi-Host?style=social" />
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> 独行者-神威  <img alt="GitHub followers" src="https://img.shields.io/github/followers/NicoNicoNi-Host?style=social" />
 
 [^_^]:
     commentted-out contents
