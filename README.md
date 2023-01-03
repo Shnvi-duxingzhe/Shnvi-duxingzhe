@@ -95,10 +95,7 @@ public class NicoNicoNi-Host (){
 
 
 ## **GitHub Stats**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoNicoNi-Host&theme=radical&show_icons=true) 
-![NicoNicoNi-Host](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoNicoNi-Host&hide=html&layout=compact&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicoNicoNi-Host&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shnvi-duxingzhe&theme=monokai)
 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
