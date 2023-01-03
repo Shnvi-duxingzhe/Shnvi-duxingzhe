@@ -5,8 +5,8 @@
 <div align= "center">
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Java&color=blue"/>
-<a href="https://blog.csdn.net/qq_45796667?spm=1018.2226.3001.5343"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
-<a href="https://www.xixihaha.tech"><img src="https://img.shields.io/static/v1?label=Home&message=HomePage&color=cyan"/></a>
+<a href="#"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+<a href="#"><img src="https://img.shields.io/static/v1?label=Home&message=HomePage&color=cyan"/></a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/sunyuan686&right_color=red" />
 </p>
 </div>
