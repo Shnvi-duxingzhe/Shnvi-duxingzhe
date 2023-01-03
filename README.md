@@ -44,6 +44,8 @@ I encourage myself by sharing my project code on GitHub.
 
 
 
+![](https://raw.githubusercontent.com/Shnvi-duxingzhe/Shnvi-duxingzhe/main/assets/github-contribution-grid-snake.svg)
+
 >⚡Links | 链接
 >>* [Personal WebSite | 个人主页](http://www.andtun.cn/)
 
@@ -102,17 +104,7 @@ public class NicoNicoNi-Host (){
 
 
 
-<div align="center">
-<p>我是子小远。</p>
-<p>非985非211非双一流，</p>
-<p>非著名非重点，</p>
-<p>比一本还多一本的，</p>
-<p>本科在读。</p>
-<p>喜欢拍照，拍的一般。</p>
-<p>喜欢跑步，跑的不快。</p>
-<p>不谈生活，代码是兴趣。</p>
-<p>梦想是成为一个会写一点代码的摄影师。</p>
-</div>
+
 
 
 
