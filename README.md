@@ -46,7 +46,7 @@ I encourage myself by sharing my project code on GitHub.
 
 
 >⚡Links | 链接
->>* [Personal WebSite | 个人主页](http://www.andtun.cn/)
+>>* [Personal WebSite | 个人主页](#)
 
 ![](https://raw.githubusercontent.com/Shnvi-duxingzhe/Shnvi-duxingzhe/main/assets/github-contribution-grid-snake.svg)
 
@@ -64,7 +64,7 @@ I encourage myself by sharing my project code on GitHub.
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
 ```java
-public class NicoNicoNi-Host (){
+public class Shnvi-duxingzhe (){
     var e = "Programmer Developer";
  
     var langs = "ALGUMAS LINGUAGENS";
