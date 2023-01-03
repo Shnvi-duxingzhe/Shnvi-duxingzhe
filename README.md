@@ -18,7 +18,6 @@
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Shnvi-duxingzhe&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true">
 </a>
-
 <br>
 
 <img src="https://raw.githubusercontent.com/Shnvi-duxingzhe/Shnvi-duxingzhe/master/gifs/Hi.gif" width="35px">
