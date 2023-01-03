@@ -1,4 +1,43 @@
-### Hi there 👋 I’m duxingzhe-shnvi
+# Hi 🎉 Welcome to Shnvi's Github Homepage  👋!
+
+<img src="[https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github、Hello%20World!&font=Roboto](https://readme-typing-svg.herokuapp.com/?lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5,%20%E4%BC%98%E7%A7%80%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85!&font=Roboto)" align = "center" />
+
+<div align= "center">
+<p>
+<img src="https://img.shields.io/static/v1?label=Program&message=Java&color=blue"/>
+<a href="https://blog.csdn.net/qq_45796667?spm=1018.2226.3001.5343"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+<a href="https://www.xixihaha.tech"><img src="https://img.shields.io/static/v1?label=Home&message=HomePage&color=cyan"/></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/sunyuan686&right_color=red" />
+</p>
+</div>
+
+
+
+<div align="center">
+<p>我是子小远。</p>
+<p>非985非211非双一流，</p>
+<p>非著名非重点，</p>
+<p>比一本还多一本的，</p>
+<p>本科在读。</p>
+<p>喜欢拍照，拍的一般。</p>
+<p>喜欢跑步，跑的不快。</p>
+<p>不谈生活，代码是兴趣。</p>
+<p>梦想是成为一个会写一点代码的摄影师。</p>
+</div>
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sunyuan686&show_icons=true&count_private=true)
+
+
+![CSDN Stats](https://stats.justsong.cn/api/csdn?id=qq_45796667&)
+![Leecode Stats](https://stats.justsong.cn/api/leetcode?username=sunyuan686&cn=true)
+
+
+
+
+
+<!-- ### Hi there 👋 I’m duxingzhe-shnvi
 
 <!-- 
 **Shuxingsun/Shuxingsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +71,4 @@ Here are some ideas to get you started:
 <!-- 不用的
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=Shnvi-duxingzhe&show_icons=true&theme=dark&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shnvi-duxingzhe&theme=dark&layout=compact) -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shnvi-duxingzhe&theme=dark&layout=compact) --> -->
