@@ -88,6 +88,7 @@ public class Shnvi-duxingzhe (){
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+<!-- 
 ## **最常访问**
 
 - [仓库容量](https://github.com/settings/repositories)
@@ -95,10 +96,11 @@ public class Shnvi-duxingzhe (){
 - [博客_短域名me](https://niconicoli.me)
 - [博客](https://niconiconi-host.github.io)
 - [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-
+ -->
 
 ## **GitHub Stats**
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shnvi-duxingzhe&theme=monokai)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shnvi-duxingzhe&theme=monokai) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shnvi-duxingzhe)
 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
