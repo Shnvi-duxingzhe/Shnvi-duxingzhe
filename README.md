@@ -1,6 +1,6 @@
 # Hi 🎉 Welcome to Shnvi's Github Homepage  👋!
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的主页, 优秀的开发者!&font=Roboto" align = "center" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to my homepage, excellent developer!&font=Roboto" align = "center" />
 
 <div align= "center">
 <p>
